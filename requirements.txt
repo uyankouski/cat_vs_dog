@@ -1,0 +1,4 @@
+tensorflow-cpu==2.5.0
+numpy==1.19.4
+pyTelegramBotAPI==3.7.1
+Pillow==8.0.1
